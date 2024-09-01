@@ -1,0 +1,227 @@
+[
+  {
+    "context": "Bates labeling/numbering documents",
+    "rejection_type": "Non-Billable / Secretarial Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Docketing/checking case status",
+    "rejection_type": "Non-Billable / Secretarial Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Charges for Opening or Closing Files",
+    "rejection_type": "Non-Billable / Secretarial Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Creation of indices of documents",
+    "rejection_type": "Non-Billable / Secretarial Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Compiling lists of documents that do not require analysis, or where the analysis has been completed by an attorney or paralegal",
+    "rejection_type": "Non-Billable / Secretarial Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Training of staff",
+    "rejection_type": "Non-Billable / Secretarial Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Preparing or revising bills, statements and dealing with billing enquiries",
+    "rejection_type": "Non-Billable / Secretarial Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Clerical duties such as creating or organizing files, folders, binders or notebooks",
+    "rejection_type": "Non-Billable / Secretarial Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Preparing documents or other materials for attorney review",
+    "rejection_type": "Non-Billable / Secretarial Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Collating; copying and binding; pulling/copying documents; & filing and re-filing",
+    "rejection_type": "Non-Billable / Secretarial Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Inventorying documents",
+    "rejection_type": "Non-Billable / Secretarial Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Uploading/downloading/formatting/converting documents",
+    "rejection_type": "Non-Billable / Secretarial Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Faxing/scanning documents",
+    "rejection_type": "Non-Billable / Secretarial Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Attendance at seminars or other such functions",
+    "rejection_type": "Non-Billable / Secretarial Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Word processing / data entry",
+    "rejection_type": "Non-Billable / Secretarial Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Scheduling, arranging or confirming meetings or appointments and making calendar/diary entries",
+    "rejection_type": "Non-Billable / Secretarial Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Making travel and related arrangements",
+    "rejection_type": "Non-Billable / Secretarial Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Proof-reading",
+    "rejection_type": "Non-Billable / Secretarial Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Filing/serving documents",
+    "rejection_type": "Non-Billable / Secretarial Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Mail merge",
+    "rejection_type": "Non-Billable / Secretarial Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Non-substantive communications (e.g. form letters, cover letters, standardized letters)",
+    "rejection_type": "Non-Billable / Secretarial Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Creation of Macros, Templates, etc.",
+    "rejection_type": "Non-Billable / Secretarial Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Conflict checks",
+    "rejection_type": "Non-Billable / Secretarial Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Document and record retrieval activities (e.g. request process, pickup, delivery, etc.)",
+    "rejection_type": "Non-Billable / Secretarial Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Chasing or repeatedly following up on the same outstanding issue",
+    "rejection_type": "Non-Billable / Secretarial Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Leaving or listening to telephone messages",
+    "rejection_type": "Non-Billable / Secretarial Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Attempting unsuccessfully to make a telephone call",
+    "rejection_type": "Non-Billable / Secretarial Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Sending a text message related to attempts to contact another party (e.g. a request for a return phone call)",
+    "rejection_type": "Non-Billable / Secretarial Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Bundling, not requiring a professional or legal input, analysis or selection process, e.g. labeling or indexing",
+    "rejection_type": "Non-Billable / Secretarial Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Charges for Westlaw or Lexis/Nexis usage",
+    "rejection_type": "Non-Billable / Overhead Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Any taxes other than those that are the legal obligation of the carrier to pay",
+    "rejection_type": "Non-Billable / Overhead Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Facsimile/telecopying Charges",
+    "rejection_type": "Non-Billable / Overhead Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Postage",
+    "rejection_type": "Non-Billable / Overhead Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Telephone Charges, including conference call charges",
+    "rejection_type": "Non-Billable / Overhead Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Scanning Charges",
+    "rejection_type": "Non-Billable / Overhead Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Database (including but not limited to Summation or Concordance) set up and/or management charges",
+    "rejection_type": "Non-Billable / Overhead Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Utilities, rent, heat, etc.",
+    "rejection_type": "Non-Billable / Overhead Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Local meals and meals not associated with travel",
+    "rejection_type": "Non-Billable / Overhead Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Any taxes imposed on the Law Firm that are not specifically identified as Chubb’s obligation to pay by any relevant law or regulation",
+    "rejection_type": "Non-Billable / Overhead Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Travel costs associated with commuting",
+    "rejection_type": "Non-Billable / Overhead Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Secretarial or support staff overtime",
+    "rejection_type": "Non-Billable / Overhead Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Subscription charges to general publications such as law reports",
+    "rejection_type": "Non-Billable / Overhead Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Entertainment / Carrier development",
+    "rejection_type": "Non-Billable / Overhead Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Printing Charges",
+    "rejection_type": "Non-Billable / Overhead Matrix",
+    "carrier_name": "Chubb"
+  },
+  {
+    "context": "Charges related to the firm’s storage on its own systems of any data storage",
+    "rejection_type": "Non-Billable / Overhead Matrix",
+    "carrier_name": "Chubb"
+  }
+]
